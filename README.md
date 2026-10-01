@@ -1,4 +1,4 @@
-# Project 3 — Voice Activity Detection & Endpointing
+# Voice Activity Detection & Endpointing
 
 A speech-processing experiment that uses **Silero Voice Activity Detection (VAD)** to detect when a person starts and stops speaking, evaluate endpointing accuracy against manually labeled speech endings, and measure how much VAD can reduce unnecessary ASR calls.
 
