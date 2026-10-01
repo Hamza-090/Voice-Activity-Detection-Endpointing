@@ -1,0 +1,10 @@
+filename,duration_seconds,min_silence_ms,always_on_calls,vad_triggered_calls,calls_saved,reduction_percent
+hamza_en_s01.wav,6.0,100,12,2,10,83.33333333333334
+hamza_en_s01.wav,6.0,300,12,2,10,83.33333333333334
+hamza_en_s01.wav,6.0,500,12,2,10,83.33333333333334
+hamza_en_s04.wav,6.0,100,12,2,10,83.33333333333334
+hamza_en_s04.wav,6.0,300,12,1,11,91.66666666666666
+hamza_en_s04.wav,6.0,500,12,1,11,91.66666666666666
+hamza_en_s05.wav,6.0,100,12,3,9,75.0
+hamza_en_s05.wav,6.0,300,12,1,11,91.66666666666666
+hamza_en_s05.wav,6.0,500,12,1,11,91.66666666666666
